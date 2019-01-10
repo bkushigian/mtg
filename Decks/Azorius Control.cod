@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius Control</deckname>
+    <comments>This is a working copy of my Teferi UW control deck.</comments>
+    <zone name="main">
+        <card number="2" name="Syncopate"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="3" name="Essence Scatter"/>
+        <card number="3" name="Negate"/>
+        <card number="2" name="Radical Idea"/>
+        <card number="3" name="Unexplained Disappearance"/>
+        <card number="2" name="Search for Azcanta"/>
+        <card number="3" name="Disallow"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Gideon of the Trials"/>
+        <card number="2" name="Conclave Tribunal"/>
+        <card number="3" name="Settle the Wreckage"/>
+        <card number="2" name="Fumigate"/>
+        <card number="2" name="Approach of the Second Sun"/>
+        <card number="4" name="Irrigated Farmland"/>
+        <card number="4" name="Glacial Fortress"/>
+        <card number="1" name="Memorial to Genius"/>
+        <card number="7" name="Plains"/>
+        <card number="11" name="Island"/>
+        <card number="2" name="Teferi, Hero of Dominaria"/>
+    </zone>
+</cockatrice_deck>

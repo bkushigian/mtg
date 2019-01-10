@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Living Death</deckname>
+    <comments>A first stab at a living death deck</comments>
+    <zone name="main">
+        <card number="4" name="Buried Alive"/>
+        <card number="4" name="Living Death"/>
+        <card number="4" name="Avatar of Discord"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="4" name="Scion of Darkness"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="4" name="Gifted Aetherborn"/>
+        <card number="18" name="Swamp"/>
+        <card number="4" name="Bojuka Bog"/>
+        <card number="2" name="Rune-Scarred Demon"/>
+        <card number="4" name="Mausoleum Secrets"/>
+        <card number="2" name="Stitcher's Supplier"/>
+        <card number="2" name="Spirit of the Night"/>
+        <card number="2" name="Entomb"/>
+        <card number="1" name="Vampiric Tutor"/>
+    </zone>
+</cockatrice_deck>

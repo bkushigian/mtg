@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green Stompy (Standard)</deckname>
+    <comments>Current working version of my green Stompy deck </comments>
+    <zone name="main">
+        <card number="4" name="Pelt Collector"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Merfolk Branchwalker"/>
+        <card number="4" name="Steel Leaf Champion"/>
+        <card number="2" name="Grunn, the Lonely King"/>
+        <card number="2" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="4" name="Nullhide Ferox"/>
+        <card number="3" name="Gigantosaurus"/>
+        <card number="2" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Thrashing Brontodon"/>
+        <card number="3" name="Titanic Growth"/>
+        <card number="3" name="Blanchwood Armor"/>
+        <card number="1" name="Might of the Masses"/>
+        <card number="23" name="Forest"/>
+    </zone>
+</cockatrice_deck>
